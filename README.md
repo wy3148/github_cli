@@ -24,3 +24,4 @@
     ./github_cli help
     ./github_cli pulls --state open
     ./github_cli pulls --state closed
+    ./github_cli merges --pull_number 342 --sha c9d0cc32f50dd25726d0b8e8cddcbfa40f483d16 --commit_title "testing" --commit_message "testing"
