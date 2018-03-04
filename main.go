@@ -10,7 +10,6 @@ import (
 
 func main() {
 
-
 	fmt.Println("Start the application")
 	cmd.Execute()
 }
